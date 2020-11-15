@@ -73,3 +73,5 @@ Insert Club Logo Here
 - Navigation Menu
 - Opening of new tabs when links to external sites are clicked by user
 - Contact Form
+
+#### Resolution of Bugs
