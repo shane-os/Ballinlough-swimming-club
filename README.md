@@ -67,3 +67,9 @@ Insert Club Logo Here
 - Addition of Contact Form
 - Creation of Team Member Profiles
 - Creation of Events
+
+#### Testing
+<br/> Planned Testing:
+- Navigation Menu
+- Opening of new tabs when links to external sites are clicked by user
+- Contact Form
