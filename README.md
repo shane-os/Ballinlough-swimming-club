@@ -58,3 +58,12 @@ Insert Club Logo Here
 - HTML
 - CSS
 - Bootstrap
+
+#### Features
+<br/> Developed:
+  
+<br/> Future Implementation:
+- Addition of Menu Bar
+- Addition of Contact Form
+- Creation of Team Member Profiles
+- Creation of Events
