@@ -53,3 +53,8 @@ Insert Club Logo Here
 -   Content answers users' questions in a concise manner.
 -   Have a visually appealling layout.
 -   All navigation links work as expected.
+
+#### Technologies
+- HTML
+- CSS
+- Bootstrap
