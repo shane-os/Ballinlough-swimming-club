@@ -78,3 +78,5 @@ Insert Club Logo Here
 
 #### Deployment of Website
 The Ballinlough Swimming Club website will be deployed using the Github pages feature.
+
+#### Accreditation
