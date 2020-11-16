@@ -8,3 +8,8 @@
     width: 80%;
     border:2.5px solid #000000;
 }
+
+#team img{
+    height: 100px;
+    width: 100px;
+}
