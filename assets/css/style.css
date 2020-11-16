@@ -3,3 +3,8 @@
     border-color: #000000;
     border-width: 3px;
 }
+
+#feestable {
+    width: 80%;
+    border:2.5px solid #000000;
+}
