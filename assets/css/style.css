@@ -4,7 +4,6 @@
     background-color: #d51717;
     border-color: #000000;
     border-width: 3px;
-    text-decoration-color: #000000;
 }
 
 nav>ul {
@@ -22,6 +21,11 @@ nav>ul {
 #feestable {
     width: 80%;
     border:2.5px solid #000000;
+}
+
+#events img {
+    height: 100px;
+    width: 100px;  
 }
 
 #team img{
