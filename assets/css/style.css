@@ -6,6 +6,10 @@
     border-width: 3px;
 }
 
+nav>ul {
+    list-style-type: none;
+}
+
 #hero {
     height: 300px;
     width: 100%;
