@@ -6,6 +6,14 @@
     border-width: 3px;
 }
 
+#hero {
+    height: 300px;
+    width: 100%;
+    background-image: url("../images/Hero-Image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #feestable {
     width: 80%;
     border:2.5px solid #000000;
