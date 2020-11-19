@@ -35,6 +35,12 @@ nav>ul {
 
 .footer ul {
     list-style-type: none;
+    text-align: center;
+
+}
+
+.footer {
+    background-color: #0d72e6;
 }
 
 * {
