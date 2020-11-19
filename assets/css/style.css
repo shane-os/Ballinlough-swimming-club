@@ -33,9 +33,14 @@ nav>ul {
     width: 100px;
 }
 
+.social {
+
+}
+
 .footer ul {
     list-style-type: none;
     text-align: center;
+    color: #eb0303;
 
 }
 
