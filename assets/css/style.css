@@ -41,10 +41,10 @@ footer>ul {
   box-sizing: border-box;
 }
 
-/* Create three columns of equal width */
+/* Four columns of equal width */
 .member {
   float: left;
-  width: 33.3%;
+  width: 25%;
   padding: 8px;
 }
 
@@ -63,11 +63,11 @@ footer>ul {
   box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
 }
 
-/* Pricing header */
+/* Membership header */
 .member .header {
-  background-color: #111;
+  background-color: rgb(18, 143, 227);
   color: white;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 /* List items */
