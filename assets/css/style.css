@@ -23,25 +23,19 @@ nav>ul {
     border:2.5px solid #000000;
 }
 
-#events img {
+.events img {
     height: 100px;
     width: 100px;  
 }
 
-#team img{
+.team img{
     height: 100px;
     width: 100px;
-}
-
-.social {
-
 }
 
 .footer ul {
     list-style-type: none;
     text-align: center;
-    color: #eb0303;
-
 }
 
 .footer {
