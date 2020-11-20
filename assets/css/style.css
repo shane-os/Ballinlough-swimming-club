@@ -35,7 +35,7 @@ nav>ul {
 
 .footer ul {
     list-style-type: none;
-    text-align: center;
+    align-content: center;
 }
 
 .footer {
