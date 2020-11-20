@@ -121,31 +121,63 @@
     </div>
 </section>
 <section id="contactus">
-    <div>
+    <div class="row">
         <h1>Contact Form</h1>
+    </div>
         <form>
-            <label for="fname">First Name:</label><br>
-            <input type="text" id="fname" name="fname"><br>
-            <label for="lname">Surname</label><br>
-            <input type="text" id="lname" name="lname"><br>
-            <label for="email">Email:</label><br>
-            <input type="email" id="email" name="email"><br>
-            <label for="mobile">Mobile Number:</label><br>
-            <input type="tel" id="mobile" name="mobile" pattern="[0-9]{3}-[0-9]{7}" placeholder="e.g. 085-1234567"><br>
-            <label>Subject (Please select one of the following):</label><br>
-            <label for="membership">Membership</label><br>
-            <input type="radio" id="submembership" name="subject" value="membership"><br>
-            <label for="training">Training</label><br>
-            <input type="radio" id="subtraining" name="subject" value="training"><br>
-            <label for="events">Events</label><br>
-            <input type="radio" id="subevents" name="subject" value="events"><br>
-            <label for="other">Other</label><br>
-            <input type="radio" id="subother" name="subject" value="other"><br>
-            <textarea name="message" rows="5" cols="20"></textarea><br>
-            <input type="checkbox" id="newsletter" name="newsletter">
-            <label for="newsletter">I wish to subscribe to the monthly Ballinlough Swimming Club newsletter.</label><br>
-            <label for="submit"></label><br>
-            <input type="submit" id="submit" name="submit"><br>
+            <div class="row">
+                <div class="col">
+                    <label for="fname">First Name:</label><br>
+                    <input type="text" id="fname" name="fname"><br>
+                </div>
+                <div class="col">
+                    <label for="lname">Surname</label><br>
+                    <input type="text" id="lname" name="lname"><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="email"><br>
+                </div>
+                <div class="col">
+                    <label for="mobile">Mobile Number:</label><br>
+                    <input type="tel" id="mobile" name="mobile" pattern="[0-9]{3}-[0-9]{7}" placeholder="e.g. 085-1234567"><br>
+                </div>
+            <div class="row">
+                <div class="col">
+                    <label>Subject (Please select one of the following):</label><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="membership">Membership</label><br>
+                    <input type="radio" id="submembership" name="subject" value="membership"><br>
+                </div>
+                <div class="col">
+                    <label for="training">Training</label><br>
+                    <input type="radio" id="subtraining" name="subject" value="training"><br>
+                </div>
+                <div class="col">
+                    <label for="events">Events</label><br>
+                    <input type="radio" id="subevents" name="subject" value="events"><br>
+                </div>
+                <div class="col">
+                    <label for="other">Other</label><br>
+                    <input type="radio" id="subother" name="subject" value="other"><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <textarea name="message" rows="5" cols="20"></textarea><br>
+                </div>
+                <input type="checkbox" id="newsletter" name="newsletter">
+                <label for="newsletter">I wish to subscribe to the monthly Ballinlough Swimming Club newsletter.</label><br>
+            <div class="row">
+                <label for="submit"></label><br>
+                <input type="submit" id="submit" name="submit"><br>
+            </div>
+            </div>
         </form>
     </div>
 </section>
