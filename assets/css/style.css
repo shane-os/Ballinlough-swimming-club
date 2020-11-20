@@ -99,6 +99,12 @@ nav>ul {
   font-size: 18px;
 }
 
+/* Contact Form */
+.contactus {
+    padding-left: 10px;
+}
+
+
 /* Change the width of the three columns to 100%
 (to stack horizontally on small screens) */
 @media only screen and (max-width: 600px) {
