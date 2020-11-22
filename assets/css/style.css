@@ -25,7 +25,8 @@ nav>ul {
 
 .events img {
     height: 100px;
-    width: 100px;  
+    width: 100px;
+    float: left;
 }
 
 .team img{
