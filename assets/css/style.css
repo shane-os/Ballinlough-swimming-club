@@ -26,7 +26,7 @@ nav>ul {
 .events img {
     height: 100px;
     width: 100px;
-    float: left;
+    float: center;
 }
 
 .team img{
@@ -51,7 +51,7 @@ nav>ul {
 .member {
   float: left;
   width: 25%;
-  padding: 8px;
+  padding: 50px;
 }
 
 /* Style the list */
