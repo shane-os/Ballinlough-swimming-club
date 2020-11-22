@@ -10,12 +10,13 @@ nav>ul {
     list-style-type: none;
 }
 
-#hero {
-    height: 300px;
-    width: 100%;
+.hero {
     background-image: url("../images/Hero-Image.jpg");
-    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    height: 20%;
 }
 
 #feestable {
