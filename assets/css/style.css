@@ -108,6 +108,9 @@ nav>ul {
 
 }
 
+.checkbox {
+    padding-left: 2%;
+}
 
 /* Change the width of the three columns to 100%
 (to stack horizontally on small screens) */
