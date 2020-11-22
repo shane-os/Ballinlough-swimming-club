@@ -112,3 +112,8 @@ nav>ul {
     width: 100%;
   }
 }
+
+.container-fluid {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}

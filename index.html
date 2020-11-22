@@ -34,7 +34,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
-<section id="membership">
+<section class=".container-fluid"  id="membership">
     <div class="text-center">
         <h1>Membership</h1>
     </div>
@@ -148,64 +148,64 @@
     <div class="row text-center">
         <h1>Contact Form</h1>
     </div>
-        <form class="was-validated">
-            <div class="row">
-                <div class="col">
-                    <label for="fname">First Name:</label><br>
-                    <input type="text" id="fname" name="fname" required><br>
-                </div>
-                <div class="col">
-                    <label for="lname">Surname</label><br>
-                    <input type="text" id="lname" name="lname" required><br>
-                </div>
+    <form class="was-validated">
+        <div class="row">
+            <div class="col">
+                <label for="fname">First Name:</label><br>
+                <input type="text" id="fname" name="fname" required><br>
             </div>
-            <div class="row">
-                <div class="col">
-                    <label for="email">Email:</label><br>
-                    <input type="email" id="email" name="email" required><br>
-                </div>
-                <div class="col">
-                    <label for="mobile">Mobile Number:</label><br>
-                    <input type="tel" id="mobile" name="mobile" pattern="[0-9]{3}-[0-9]{7}" placeholder="e.g. 085-1234567" required><br>
-                </div>
+            <div class="col">
+                <label for="lname">Surname</label><br>
+                <input type="text" id="lname" name="lname" required><br>
             </div>
-            <div class="row">
-                <div class="col">
-                    <label>Subject (Please select one of the following):</label><br>
-                </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br>
             </div>
-            <div class="row">
-                <div class="col">
-                    <label for="membership">Membership</label><br>
-                    <input type="radio" id="submembership" name="subject" value="membership" required><br>
-                </div>
-                <div class="col">
-                    <label for="training">Training</label><br>
-                    <input type="radio" id="subtraining" name="subject" value="training" required><br>
-                </div>
-                <div class="col">
-                    <label for="events">Events</label><br>
-                    <input type="radio" id="subevents" name="subject" value="events" required><br>
-                </div>
-                <div class="col">
-                    <label for="other">Other</label><br>
-                    <input type="radio" id="subother" name="subject" value="other" required><br>
-                </div>
+            <div class="col">
+                <label for="mobile">Mobile Number:</label><br>
+                <input type="tel" id="mobile" name="mobile" pattern="[0-9]{3}-[0-9]{7}" placeholder="e.g. 085-1234567" required><br>
             </div>
-            <div class="row">
-                <div class="col">
-                    <textarea name="message" rows="5" cols="20" placeholder="Type your message here..." required></textarea><br>
-                </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label>Subject (Please select one of the following):</label><br>
             </div>
-            <div class="row">
-                <input type="checkbox" id="newsletter" name="newsletter">
-                <label for="newsletter">I wish to subscribe to the monthly Ballinlough Swimming Club newsletter.</label><br>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label for="membership">Membership</label><br>
+                <input type="radio" id="submembership" name="subject" value="membership" required><br>
             </div>
-            <div class="row">
-                <label for="submit"></label><br>
-                <input type="submit" id="submit" name="submit"><br>
+            <div class="col">
+                <label for="training">Training</label><br>
+                <input type="radio" id="subtraining" name="subject" value="training" required><br>
             </div>
-        </form>
+            <div class="col">
+                <label for="events">Events</label><br>
+                <input type="radio" id="subevents" name="subject" value="events" required><br>
+            </div>
+            <div class="col">
+                <label for="other">Other</label><br>
+                <input type="radio" id="subother" name="subject" value="other" required><br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <textarea name="message" rows="5" cols="20" placeholder="Type your message here..." required></textarea><br>
+            </div>
+        </div>
+        <div class="row">
+            <input type="checkbox" id="newsletter" name="newsletter">
+            <label for="newsletter">I wish to subscribe to the monthly Ballinlough Swimming Club newsletter.</label><br>
+        </div>
+        <div class="row">
+            <label for="submit"></label><br>
+            <input type="submit" id="submit" name="submit"><br>
+        </div>
+    </form>
 </section>
 <section class="card-footer bg-info text-white text-center">
     <div class="social">
