@@ -49,6 +49,7 @@
 <br/> User Requirements:
 -   Navigate the site efficiently using the navigation bar.
 -   Provide information in an organised method that easily allows users to find what they require.
+-   Contact form operates properly and validates data inputed.
 
 <br/> User Expectations:
 -   Content answers users' questions in a concise manner.
