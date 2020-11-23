@@ -21,6 +21,10 @@ nav>ul {
     width: 100%;
 }
 
+.jumbotron {
+    opacity: 0.75;
+}
+
 #feestable {
     width: 80%;
     border:2.5px solid #000000;
