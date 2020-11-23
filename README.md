@@ -19,7 +19,7 @@
 #### Testing
 #### Bugs
 #### Deployment
-#### Accreditation
+#### Accreditation & Gratitude
 #### References
 
 ### UX (User Experience)
@@ -82,9 +82,20 @@
 #### Resolution of Bugs
 
 #### Deployment of Website
-The Ballinlough Swimming Club website will be deployed using the Github pages feature.
+The website is stored as a repository on the Github site. The website has been created using the Gitpod Integrated Development Environment. The Ballinlough Swimming Club website has been deployed using the Github pages feature. The following is the process for deploying a site on Github pages:
 
-#### Accreditation
+1. Login to Github website with username and password.
+2. Select settings option at the top of the navigation menu on the shane-os/Ballinlough-swimming-club Github repository page.
+3. Go to the Github pages section.
+4. Select the Master branch and confirm.
+5. The page is now live at: https://shane-os.github.io/Ballinlough-swimming-club/.
+
+#### Accreditation & Gratitude
+I wish to express my appreciation for the following individuals:
+- Simen Daehlin: I wish to thank my mentor for his support and advice in creating this project.
+- (ByIlsa)[https://github.com/byIlsa]: Her website on [Aloy](https://byilsa.github.io/Aloy-from-outcast-to-heroine/) gave me inspiration for the design of my website
+- Code Institute Slack Channels: These were quite supportive in keeping my motivation up and helping with issues.
+
 
 #### References
 - Code Sections
