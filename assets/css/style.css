@@ -11,12 +11,14 @@ nav>ul {
 }
 
 .hero {
-    background-image: url("../images/Hero-Image.jpg");
-    background-size: cover;
+    display: flex;
+    background-image: url("../images/River-Swim.jpg");
     background-repeat: no-repeat;
     background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
     position: relative;
-    height: 20%;
+    width: 100%;
 }
 
 #feestable {
@@ -122,8 +124,8 @@ nav>ul {
 }
 
 .container-fluid {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 body {
