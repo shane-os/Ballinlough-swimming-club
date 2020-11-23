@@ -1,6 +1,7 @@
 # Ballinlough Swimming Club
 ## Welcome To Ireland's Newest Swimming Club
-Insert Club Logo Here
+
+![Hero-Image](https://github.com/shane-os/Ballinlough-swimming-club/blob/master/assets/images/Hero-Image.jpg)
 ### Contents
 
 #### UX (User Experience)
