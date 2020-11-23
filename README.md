@@ -28,11 +28,10 @@
 -   I am passionate about swimming so this project is an expression of my interest in this pasttime.
 
 <br/> User Goals:
--   Find information about the Dolphin Swimming Club.
+-   Find information about the Ballinlough Swimming Club.
 -   Find contact details for the club.
--   Use the contact form method provided to message the club.
+-   Use the contact form provided to message the club.
 -   Find information about the club's activities.
--   Examine the club's training and classes.
 -   Locate the club's membership fee structure.
 
 <br/> User Stories:
