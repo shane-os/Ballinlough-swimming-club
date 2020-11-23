@@ -57,9 +57,10 @@
 -   All navigation links work as expected.
 
 #### Technologies
-- HTML
-- CSS
-- Bootstrap
+ * Programming Languages
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/)
 
 #### Features
 <br/> Developed:
