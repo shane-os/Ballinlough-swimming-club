@@ -117,7 +117,18 @@ Once developed, each contact field was checked to ensure that the validation key
 - Submit Button must be pressed.
 
 All tests were deemed to be successful.
+
 #### Resolution of Bugs
+Throughout this project, there were a number of issues that arose. The vast majority of these issues were minor mistakes such as overlapping text. The more serious issues were as follows:
+
+1. Navigation Bar:
+When the site was viewed, the navigation bar would cover a significant amount of the hero image. As the navigation bar was coded to stick to the top of the browser window this would further cover the image. After numerous attempts, the bug was resolved by continously changing the padding and margin settings for the site. For smaller devices, a collapsible navigation bar helped to make the site more visually appealling and helped prevent the hero image being covered.
+
+2. Membership Fee Table:
+Due to different column lengths in the membership fees table, there was an overlapping of the table with the events section. This was resolved using containers and padding aesthetics.
+
+3. Contact Form:
+Parts of the contact form such as radio buttons and a checkbox would be inaccessible. This was solved by changing the order of the text and their corresponding fields, using margin aesthetics.
 
 #### Deployment of Website
 The website is stored as a repository on the Github site. The website has been created using the Gitpod Integrated Development Environment. The Ballinlough Swimming Club website has been deployed using the Github pages feature. The following is the process for deploying a site on Github pages:
