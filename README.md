@@ -88,11 +88,11 @@ The Ballinlough Swimming Club website will be deployed using the Github pages fe
 
 #### References
 
-Images:
-- Team
--- [Club President](https://www.pexels.com/photo/woman-smiling-and-holding-teal-book-1181424/)
--- [Club Secretary](https://www.pexels.com/photo/happy-ethnic-woman-sitting-at-table-with-laptop-3769021/)
--- [Club Finance Officer](https://www.pexels.com/photo/man-wearing-black-zip-up-jacket-near-beach-smiling-at-the-photo-736716/)
--- [Club Promotion Officer](https://www.pexels.com/photo/man-in-blue-dress-shirt-smiling-3973335/)
--- [Club Equipment Officer](https://www.pexels.com/photo/happy-young-woman-working-on-typewriter-while-creating-new-story-5208023/)
+- Images:
+- Team:
+  - [Club President](https://www.pexels.com/photo/woman-smiling-and-holding-teal-book-1181424/)
+  - [Club Secretary](https://www.pexels.com/photo/happy-ethnic-woman-sitting-at-table-with-laptop-3769021/)
+  - [Club Finance Officer](https://www.pexels.com/photo/man-wearing-black-zip-up-jacket-near-beach-smiling-at-the-photo-736716/)
+  - [Club Promotion Officer](https://www.pexels.com/photo/man-in-blue-dress-shirt-smiling-3973335/)
+  - [Club Equipment Officer](https://www.pexels.com/photo/happy-young-woman-working-on-typewriter-while-creating-new-story-5208023/)
 
