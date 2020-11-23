@@ -69,6 +69,8 @@ Initially the site's layout was drawn out using a pencil and graph paper. Follow
 
 Based on the initial designs, I decided that a single scrolling web page would be better at engaging the user and heightening their interest in the Ballinlough Swimming Club.
 
+The wireframes can be viewed [here](https://github.com/shane-os/Ballinlough-swimming-club/tree/master/wireframes).
+
 2. Icons
 Icons were used to convey links to the following social media platforms: Twitter, Facebook, Instagram and Youtube. These were chosen as they are appropriate for the club's image. Font-Awesome icons were used. LinkedIn was not included as it was deemed not appropriate for the aims of increasing the club's membership.
 
