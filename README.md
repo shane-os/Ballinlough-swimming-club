@@ -102,5 +102,7 @@ To allow the website to be more visible for mobile and tablet users, a Bootstrap
   - [Club Equipment Officer](https://www.pexels.com/photo/happy-young-woman-working-on-typewriter-while-creating-new-story-5208023/)
   
 - Events:
-  - 
+  - [South Sea Swim](https://unsplash.com/photos/ttVkhv0Wd5A)
+  - [Lee Swim](https://unsplash.com/photos/qDrj02qpg-c)
+  - [Surfing Trip](https://www.pexels.com/photo/action-adventure-beach-dawn-390051/)
 
