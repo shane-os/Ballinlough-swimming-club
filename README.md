@@ -1,6 +1,7 @@
 # Ballinlough Swimming Club
 ## Welcome To Ireland's Newest Swimming Club
-Insert Club Logo Here
+
+![Hero-Image](https://github.com/shane-os/Ballinlough-swimming-club/blob/master/assets/images/Hero-Image.jpg)
 ### Contents
 
 #### UX (User Experience)
@@ -27,27 +28,28 @@ Insert Club Logo Here
 -   I am passionate about swimming so this project is an expression of my interest in this pasttime.
 
 <br/> User Goals:
--   Find information about the Dolphin Swimming Club.
+-   Find information about the Ballinlough Swimming Club.
 -   Find contact details for the club.
--   Use the contact form method provided to message the club.
+-   Use the contact form provided to message the club.
 -   Find information about the club's activities.
--   Examine the club's training and classes.
 -   Locate the club's membership fee structure.
 
 <br/> User Stories:
 -   As a user, I wish to find information on the club's activities so that I may join if interested.
 -   As a user, I would like to locate membership fee information as I will be better abled to make a decision on whether to join the club.
--   As a user, I want to find out about classes so that I may be better informaed and attend if I wish.
+-   As a user, I want to find out about classes so that I may be better informed and attend if I wish.
 -   As a user, I wish to be able to contact the club so that I may join.
 
 <br/> Site Owner Goals:
--   As a site owner, I want to inform users about the club's activities so that they may become interested.
--   As a site owner, I wish to inform users about the club's management team to allow members to contact specific members if they wish.
+-   As a site owner, I want to inform users about the club's activities to heighten their interest in the club.
+-   As a site owner, I wish to inform users about the club's membership fee structure so that they are informed of the cost if they wish to join.
+-   As a site owner, I wish to inform users about the club's management team to allow members to contact specific team members if they wish.
 -   As a site owner, I want to create a means through which users can contact the club.
 
 <br/> User Requirements:
 -   Navigate the site efficiently using the navigation bar.
 -   Provide information in an organised method that easily allows users to find what they require.
+-   Contact form operates properly and validates data inputed.
 
 <br/> User Expectations:
 -   Content answers users' questions in a concise manner.
@@ -55,18 +57,21 @@ Insert Club Logo Here
 -   All navigation links work as expected.
 
 #### Technologies
-- HTML
-- CSS
-- Bootstrap
+ * Programming Languages
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/)
 
 #### Features
 <br/> Developed:
-  
-<br/> Future Implementation:
-- Addition of Menu Bar
-- Addition of Contact Form
+- Menu Bar
+- Contact Form
 - Creation of Team Member Profiles
 - Creation of Events
+
+<br/> Future Implementation:
+- Videos of training/ events
+- Payment of fees online
 
 #### Testing
 <br/> Planned Testing:
