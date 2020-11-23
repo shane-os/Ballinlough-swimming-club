@@ -37,7 +37,7 @@
 <br/> User Stories:
 -   As a user, I wish to find information on the club's activities so that I may join if interested.
 -   As a user, I would like to locate membership fee information as I will be better abled to make a decision on whether to join the club.
--   As a user, I want to find out about classes so that I may be better informaed and attend if I wish.
+-   As a user, I want to find out about classes so that I may be better informed and attend if I wish.
 -   As a user, I wish to be able to contact the club so that I may join.
 
 <br/> Site Owner Goals:
