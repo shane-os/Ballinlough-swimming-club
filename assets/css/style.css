@@ -12,7 +12,7 @@ nav>ul {
 
 .hero {
     display: flex;
-    background-image: url("../images/River-Swim.jpg");
+    background-image: url("../images/Hero-Image.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
