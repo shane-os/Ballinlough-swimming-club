@@ -74,11 +74,22 @@
 - Payment of fees online
 
 #### Testing
-<br/> Planned Testing:
-- Navigation Menu
-- Opening of new tabs when links to external sites are clicked by user
-- Contact Form
 
+<br/> Completed Testing:
+1. Navigation Menu:
+All internal links were checked to examined to make sure their destination was as intended. The collapsible menu was checked to see if it was responsive to user selection.
+2. External Link:
+Only one external link was included in the website. This was a link to the annual Lee Swim; an actual swimming competition. The relevant button was tested to determine if a new tab opened and showed the desired website.
+3. Contact Form:
+Once developed, each contact field was checked to ensure that the validation keys put in place were successful.
+- Name,Surname: Must include text.
+- Email: Must include @.
+- Mobile Number: Must be numerical.
+- Subject: Must select one of the radio buttons.
+- Text Box: Must have text imputed.
+- Submit Button must be pressed.
+
+All tests were deemed to be successful.
 #### Resolution of Bugs
 
 #### Deployment of Website
