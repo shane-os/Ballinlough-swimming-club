@@ -11,7 +11,10 @@
   * Site Owner Goals
   * User Requirements
   * User Expectations
-  
+  * Site Layout & Design
+   1.  Wireframes
+   2.  Icons
+   3.  Images
 #### Technologies
 #### Features
   * Developed
@@ -55,6 +58,21 @@
 -   Content answers users' questions in a concise manner.
 -   Have a visually appealling layout.
 -   All navigation links work as expected.
+
+<br/> Site Layout & Design:
+1. Wireframes
+Initially the site's layout was drawn out using a pencil and graph paper. Following on from this, a more defined version was created using Balsamic wireframes. Three sets of wireframes were created for the following media devices:
+
+* Mobile Devices
+* Tablet Devices
+* Desktop/ Large Devices
+
+Based on the initial designs, I decided that a single scrolling web page would be better at engaging the user and heightening their interest in the Ballinlough Swimming Club.
+
+2. Icons
+Icons were used to convey links to the following social media platforms: Twitter, Facebook, Instagram and Youtube. These were chosen as they are appropriate for the club's image. LinkedIn was not included as it was deemed not appropriate for the aims of increasing the club's membership.
+3. Images
+I decided that stock photos would be used to improve the aesthetics of the site. For the hero image I chose a photo of lane swimmers to indicate to the user that this was a professional swimming club that entered competitions. For the team members photos I used stock photos of business people to show the management team's professionalism.
 
 #### Technologies
  * Programming Languages
