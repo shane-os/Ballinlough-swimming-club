@@ -41,8 +41,9 @@
 -   As a user, I wish to be able to contact the club so that I may join.
 
 <br/> Site Owner Goals:
--   As a site owner, I want to inform users about the club's activities so that they may become interested.
--   As a site owner, I wish to inform users about the club's management team to allow members to contact specific members if they wish.
+-   As a site owner, I want to inform users about the club's activities to heighten their interest in the club.
+-   As a site owner, I wish to inform users about the club's membership fee structure so that they are informed of the cost if they wish to join.
+-   As a site owner, I wish to inform users about the club's management team to allow members to contact specific team members if they wish.
 -   As a site owner, I want to create a means through which users can contact the club.
 
 <br/> User Requirements:
