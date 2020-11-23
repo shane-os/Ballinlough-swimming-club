@@ -64,12 +64,14 @@
 
 #### Features
 <br/> Developed:
-  
-<br/> Future Implementation:
-- Addition of Menu Bar
-- Addition of Contact Form
+- Menu Bar
+- Contact Form
 - Creation of Team Member Profiles
 - Creation of Events
+
+<br/> Future Implementation:
+- Videos of training/ events
+- Payment of fees online
 
 #### Testing
 <br/> Planned Testing:
