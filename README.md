@@ -87,6 +87,11 @@ The Ballinlough Swimming Club website will be deployed using the Github pages fe
 #### Accreditation
 
 #### References
+- Code Sections
+- Responsive Membership Fee Table:
+To complete the responsive membership fee table in the membersip section I used some code from [W3 Schools](https://www.w3schools.com/howto/howto_css_pricing_table.asp).
+- Collapsible Navigation Bar:
+To allow the website to be more visible for mobile and tablet users, a Bootstrap navigation bar was introduced. The inspiration for this came from [W3 Schools](https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp)
 
 - Images:
 - Team:
@@ -95,4 +100,7 @@ The Ballinlough Swimming Club website will be deployed using the Github pages fe
   - [Club Finance Officer](https://www.pexels.com/photo/man-wearing-black-zip-up-jacket-near-beach-smiling-at-the-photo-736716/)
   - [Club Promotion Officer](https://www.pexels.com/photo/man-in-blue-dress-shirt-smiling-3973335/)
   - [Club Equipment Officer](https://www.pexels.com/photo/happy-young-woman-working-on-typewriter-while-creating-new-story-5208023/)
+  
+- Events:
+  - 
 
