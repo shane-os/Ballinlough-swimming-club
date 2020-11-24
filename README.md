@@ -60,6 +60,9 @@
 -   All navigation links work as expected.
 
 <br/> Site Layout & Design:
+
+![Responsive-Design](https://github.com/shane-os/Ballinlough-swimming-club/blob/master/assets/images/responsive-design.JPG)
+
   *  Wireframes
 Initially the site's layout was drawn out using a pencil and graph paper. Following on from this, a more defined version was created using Balsamic wireframes. Three sets of wireframes were created for the following media devices:
 
