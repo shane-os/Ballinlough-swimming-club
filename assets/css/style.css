@@ -118,14 +118,6 @@ nav>ul {
     padding-left: 2%;
 }
 
-/* Change the width of the three columns to 100%
-(to stack horizontally on small screens) */
-@media only screen and (max-width: 600px) {
-  .columns {
-    width: 100%;
-  }
-}
-
 .container-fluid {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -133,4 +125,17 @@ nav>ul {
 
 body {
     padding-top: 50px;
+}
+
+/* Media Queries*/
+@media only screen and (max-width: 600px) {
+  .columns {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .columns {
+    width: 90%;
+  }
 }
