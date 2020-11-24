@@ -1,9 +1,21 @@
 /*---------------------Roboto Font-------------------*/
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
+
+/*---------------------HTML-------------------*/
 
 html {
   scroll-behavior: smooth;
 }
+
+/*---------------------Body-------------------*/
+
+body {
+    padding-top: 50px;
+    font-family: 'Roboto';
+}
+
+/*---------------------Navigation Bar-------------------*/
 
 #navbar {
     background-color: #ffffff;
@@ -14,6 +26,8 @@ html {
 nav ul {
     list-style-type: none;
 }
+
+/*---------------------Hero Image-------------------*/
 
 .hero {
     display: flex;
@@ -26,39 +40,19 @@ nav ul {
     width: 100%;
 }
 
+/*---------------------Jumbotron-------------------*/
+
 .jumbotron {
     opacity: 0.75;
     font-size: 28pt;
     font-family: 'Roboto';
 }
 
+/*---------------------Membership Fees Table-------------------*/
+
 #feestable {
     width: 80%;
     border:2.5px solid #000000;
-}
-
-.events img {
-    height: 100px;
-    width: 100px;
-    float: center;
-}
-
-.team img{
-    height: 100px;
-    width: 100px;
-}
-
-.footer ul {
-    list-style-type: none;
-    align-content: center;
-}
-
-.footer {
-    background-color: #0d72e6;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 /* Four columns of equal width */
@@ -103,18 +97,39 @@ nav ul {
   font-size: 20px;
 }
 
-/* The "Sign Up" button */
-.button {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 10px 25px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 18px;
+/*---------------------Events-------------------*/
+
+.events img {
+    height: 100px;
+    width: 100px;
+    float: center;
 }
 
-/* Contact Form */
+/*---------------------Team-------------------*/
+
+.team img{
+    height: 100px;
+    width: 100px;
+}
+
+/*---------------------Footer-------------------*/
+
+.footer ul {
+    list-style-type: none;
+    align-content: center;
+}
+
+.footer {
+    background-color: #0d72e6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+/*---------------------Contact Form-------------------*/
 .contactus {
     padding-left: 2%;
     padding-bottom: 5%;
@@ -130,12 +145,7 @@ nav ul {
     padding-bottom: 10px;
 }
 
-body {
-    padding-top: 50px;
-    font-family: 'Roboto';
-}
-
-/* Media Queries*/
+/*---------------------Media Queries-------------------*/
 @media only screen and (max-width: 600px) {
   .columns {
     width: 100%;
