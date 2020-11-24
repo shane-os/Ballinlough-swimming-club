@@ -23,6 +23,7 @@ nav>ul {
 
 .jumbotron {
     opacity: 0.75;
+    font-size: 33pt;
 }
 
 #feestable {
@@ -125,6 +126,7 @@ nav>ul {
 
 body {
     padding-top: 50px;
+    font-family: 'Roboto';
 }
 
 /* Media Queries*/
