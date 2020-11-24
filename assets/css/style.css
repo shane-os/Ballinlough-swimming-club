@@ -55,14 +55,12 @@ nav ul {
     border:2.5px solid #000000;
 }
 
-/* Four columns of equal width */
 .member {
   float: left;
   width: 25%;
   padding: 20px;
 }
 
-/* Style the list */
 .member {
   list-style-type: none;
   border: 1px solid #eee;
@@ -72,12 +70,10 @@ nav ul {
   transition: 0.3s;
 }
 
-/* Add shadows on hover */
 .member:hover {
   box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
 }
 
-/* Membership header */
 .member .header {
   background-color: rgb(18, 143, 227);
   color: white;
@@ -148,6 +144,10 @@ nav ul {
   .columns {
     width: 100%;
   }
+  .member {
+    width: 50%;
+  }
+
 }
 
 @media only screen and (min-width: 600px) {
