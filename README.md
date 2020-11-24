@@ -1,7 +1,7 @@
 # Ballinlough Swimming Club
 ## Welcome To Ireland's Newest Swimming Club
 
-![Hero-Image](https://github.com/shane-os/Ballinlough-swimming-club/blob/master/assets/images/Hero-Image.jpg)
+![Hero-Image](https://github.com/shane-os/Ballinlough-swimming-club/blob/master/assets/images/hero-image.jpg)
 ### Contents
 
 #### UX (User Experience)
@@ -116,7 +116,9 @@ Once developed, each contact field was checked to ensure that the validation key
 - Text Box: Must have text imputed.
 - Submit Button must be pressed.
 
-All tests were deemed to be successful.
+The HTML code was passed through the W3C Validator. The errors that arose were in relation to typos. These were resolved.
+
+The CSS code was passed through the Jigsaw validator and all syntax errors were resolved.
 
 #### Resolution of Bugs
 Throughout this project, there were a number of issues that arose. The vast majority of these issues were minor mistakes such as overlapping text. The more serious issues were as follows:
