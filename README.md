@@ -80,6 +80,9 @@ I decided that stock photos would be used to improve the aesthetics of the site.
 Programming Languages:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JQuery](https://jquery.com/)
+- [Popper](https://popper.js.org/)
 
 Libraries & Tools:
 - [Bootstrap](https://getbootstrap.com/)
@@ -87,6 +90,7 @@ Libraries & Tools:
 - [Github](https://github.com/)
 - [Gitpod](https://www.gitpod.io/)
 - [Font-Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 #### Features
 <br/> Developed:
