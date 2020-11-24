@@ -15,6 +15,11 @@ body {
     font-family: 'Roboto';
 }
 
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 /*---------------------Navigation Bar-------------------*/
 
 #navbar {
@@ -95,7 +100,7 @@ nav ul {
 
 /*---------------------Events-------------------*/
 
-.events img {
+.events img{
     height: 100px;
     width: 100px;
     float: center;
