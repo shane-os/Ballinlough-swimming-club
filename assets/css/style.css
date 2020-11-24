@@ -112,23 +112,6 @@ nav ul {
     width: 100px;
 }
 
-/*---------------------Footer-------------------*/
-
-.footer ul {
-    list-style-type: none;
-    align-content: center;
-}
-
-.footer {
-    background-color: #0d72e6;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-
-
 /*---------------------Contact Form-------------------*/
 .contactus {
     padding-left: 2%;
@@ -143,6 +126,21 @@ nav ul {
 .container-fluid {
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+/*---------------------Footer-------------------*/
+
+.footer ul {
+    list-style-type: none;
+    align-content: center;
+}
+
+.footer {
+    background-color: #0d72e6;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 /*---------------------Media Queries-------------------*/
