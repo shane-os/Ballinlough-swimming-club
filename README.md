@@ -1,7 +1,7 @@
 # Ballinlough Swimming Club
 ## Welcome To Ireland's Newest Swimming Club
 
-![Hero-Image](https://github.com/shane-os/Ballinlough-swimming-club/blob/master/assets/images/Hero-Image.jpg)
+![Hero-Image](https://github.com/shane-os/Ballinlough-swimming-club/blob/master/assets/images/hero-image.jpg)
 ### Contents
 
 #### UX (User Experience)
@@ -11,10 +11,10 @@
   * Site Owner Goals
   * User Requirements
   * User Expectations
-  * Site Layout & Design
-   1.  Wireframes
-   2.  Icons
-   3.  Images
+  * Site Layout & Design:
+      -  Wireframes
+      -  Icons
+      -  Images
 #### Technologies
 #### Features
   * Developed
@@ -60,29 +60,28 @@
 -   All navigation links work as expected.
 
 <br/> Site Layout & Design:
-1. Wireframes
+  *  Wireframes
 Initially the site's layout was drawn out using a pencil and graph paper. Following on from this, a more defined version was created using Balsamic wireframes. Three sets of wireframes were created for the following media devices:
 
-*  Mobile Devices
-*  Tablet Devices
-*  Desktop/ Large Devices
+  -  Mobile Devices
+  -  Tablet Devices
+  -  Desktop/ Large Devices
 
 Based on the initial designs, I decided that a single scrolling web page would be better at engaging the user and heightening their interest in the Ballinlough Swimming Club.
 
 The wireframes can be viewed [here](https://github.com/shane-os/Ballinlough-swimming-club/tree/master/wireframes).
-
-2. Icons
+  *  Icons
 Icons were used to convey links to the following social media platforms: Twitter, Facebook, Instagram and Youtube. These were chosen as they are appropriate for the club's image. Font-Awesome icons were used. LinkedIn was not included as it was deemed not appropriate for the aims of increasing the club's membership.
 
-3. Images
+  *  Images
 I decided that stock photos would be used to improve the aesthetics of the site. For the hero image I chose a photo of lane swimmers to indicate to the user that this was a professional swimming club that entered competitions. For the team members photos I used stock photos of business people to show the management team's professionalism.
 
 #### Technologies
- * Programming Languages
+Programming Languages:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
- * Libraries & Tools
+Libraries & Tools:
 - [Bootstrap](https://getbootstrap.com/)
 - [Git](https://git-scm.com/)
 - [Github](https://github.com/)
@@ -109,14 +108,16 @@ All internal links were checked to examined to make sure their destination was a
 Only one external link was included in the website. This was a link to the annual Lee Swim; an actual swimming competition. The relevant button was tested to determine if a new tab opened and showed the desired website.
 3. Contact Form:
 Once developed, each contact field was checked to ensure that the validation keys put in place were successful.
-- Name,Surname: Must include text.
-- Email: Must include @.
-- Mobile Number: Must be numerical.
-- Subject: Must select one of the radio buttons.
-- Text Box: Must have text imputed.
-- Submit Button must be pressed.
+  -  Name, Surname: Must include text.
+  -  Email: Must include @.
+  -  Mobile Number: Must be numerical.
+  -  Subject: Must select one of the radio buttons.
+  -  Text Box: Must have text imputed.
+  -  Submit Button must be pressed.
 
-All tests were deemed to be successful.
+The HTML code was passed through the W3C Validator. The errors that arose were in relation to typos. These were resolved.
+
+The CSS code was passed through the Jigsaw validator and all syntax errors were resolved.
 
 #### Resolution of Bugs
 Throughout this project, there were a number of issues that arose. The vast majority of these issues were minor mistakes such as overlapping text. The more serious issues were as follows:
