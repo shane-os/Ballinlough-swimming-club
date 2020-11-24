@@ -155,13 +155,13 @@ I wish to express my appreciation for the following individuals:
 
 
 #### References
-- Code Sections
+Code Sections:
 - Responsive Membership Fee Table:
 To complete the responsive membership fee table in the membersip section I used some code from [W3 Schools](https://www.w3schools.com/howto/howto_css_pricing_table.asp).
 - Collapsible Navigation Bar:
 To allow the website to be more visible for mobile and tablet users, a Bootstrap navigation bar was introduced. The inspiration for this came from [W3 Schools](https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp)
 
-- Images:
+Images:
 - Team:
   - [Club President](https://www.pexels.com/photo/woman-smiling-and-holding-teal-book-1181424/)
   - [Club Secretary](https://www.pexels.com/photo/happy-ethnic-woman-sitting-at-table-with-laptop-3769021/)
